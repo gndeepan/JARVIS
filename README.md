@@ -16,7 +16,7 @@ APK Folder
  </table>
  <table>
   <tr>
-    <td>Splash Screen Page</td>
+    <td>Control Screen Page</td>
    
   </tr>
   <tr>
